@@ -2,7 +2,7 @@
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-g-machaca-136119276/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gonza_machaca)
-[<img src="https://img.shields.io/github/followers/JsasMachaca?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JsusMachaca) 
+[<img src="https://img.shields.io/github/followers/JsasMachaca?label=follow&style=social" height="22" title="Follow me" />](https://github.com/jsusmachaca) 
 
 
 
