@@ -1,47 +1,111 @@
-<h1 align="center" color="Yelow"><pan>Sobre mí 🙂</span></h1>
+<h1 align="center" style="color: yellow"><pan>About me </span></h1>
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-g-machaca-136119276/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gonza_machaca)
 [<img src="https://img.shields.io/github/followers/jsusmachaca?label=follow&style=social" height="22" title="Follow me" />](https://github.com/jsusmachaca) 
 
 
+<img align="right" src="https://media.tenor.com/500rWqut3sMAAAAj/party-gopher.gif" width="30%">
 
-<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f0ed5eb-f7f0-4f7e-8cd5-3b83330bfa13/d7ao0vl-332c17cb-bac9-43f8-9093-81ec1de41f24.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMGVkNWViLWY3ZjAtNGY3ZS04Y2Q1LTNiODMzMzBiZmExM1wvZDdhbzB2bC0zMzJjMTdjYi1iYWM5LTQzZjgtOTA5My04MWVjMWRlNDFmMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M5LFIa13R3yY4-nrMXbTmTYyIgoJ3V_gTR3Y2hkoNtI" width="30%">
+```golang
+import "fmt"
 
-```python
-print("Hola, Mundo 👋")
+func main() {
+        name := "Jesus Machaca"
+        age := 21
+        location := "Arequipa, Perú"
+
+        aboutMe()
+}
+
+func aboutMe() {
+        description := `
+        Hi 👋, I am a Software Design and Development student at Tecsup
+        in Arequipa. I am currently working for a company developing an
+        ERP system with a team of developers.
+
+        I am a Linux and free and open source software enthusiast; I firmly
+        believe that these movements allow for the construction of more
+        secure and high-quality software.
+
+        I love listening to music 🎶 especially metal 🤟, I also love
+        watching movies, series and sharing them with my family.
+        `
+        fmt.Println(description)
+}
 ```
-```html
-<p>
-  Mi nombre es Jesús Gonzalo Machaca, tengo 19 años y soy estudiante de <br>
-  Diseño y Desarrollo de Software de Tecsup en Perú. Actualmente  <br>
-  estoy curso el 4to semestre. Soy un apasionado total de la programación <br>
-  y todo lo relacionado al mundo de la informática. Me encanta escuchar <br>
-  música 💓 🎶, ver películas, series y compartirla con mi familia.
-</p>
-```
+---
+<h1 align="center">Languages and Tools</h1>
+<div align="center">
+  <table style="border-radius: 10px">
+    <!-- first row -->
+    <tr>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/e750ca60-d219-40ae-9223-a03ce42259f7" width="50px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/3564c78f-8d49-49bc-bce0-ce54b071cf55" width="50px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/07167fc4-cb8f-4edc-9ad4-804df3ecbb04" width="90px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/f3b4be9d-f760-46f7-b0cc-ee539aa44594" width="50px">
+      </td>
+    </tr>
+    <!-- second row -->
+    <tr>
+      <td align="center" width="100px" height="100px">
+        <img src="https://d1zviajkun9gxg.cloudfront.net/user/prod/2020/01/05/fastpages-892f9602-fc52-42e6-9e81-2ea8f1477f89.png" width="80px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/c0ec0c49-94cb-43d7-aec1-a920c73121ce" width="50px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/90be0ebc-1a17-4c38-ac52-07ce19b9b124" width="60px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/5da42dba-02da-4e14-a498-56899d8ac130" width="50px">
+      </td>
+    </tr>
+    <!-- first row -->
+    <tr>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/2f99c7a1-b57f-4fde-b4a7-63b45ddfce90" width="60px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/b0acfc35-1553-4d82-8436-940e1c4453d7" width="40px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/0a104ea0-04af-4fc6-9b6b-e5c33804613c" width="60px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/29142760-8e4d-45c9-9509-36784a5e8026" width="60px">
+      </td>
+    </tr>
+    <!-- first row -->
+    <tr>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/d74a536d-5b51-4bc8-80ab-058451a46e89" width="60px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/fc46a101-a370-4359-917d-2715cea0c923" width="70px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/11336412-cf68-41db-bbc3-09b8ec8b77fb" width="50px">
+      </td>
+      <td align="center" width="100px" height="100px">
+        <img src="https://github.com/user-attachments/assets/98cdbb15-4e6d-4d38-850d-c5495848d81f" width="50px">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-### Estas son algunas tecnologías que uso.
-| <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/e750ca60-d219-40ae-9223-a03ce42259f7" width="100x100px"> | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/3564c78f-8d49-49bc-bce0-ce54b071cf55" width="100x100px">  |  <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/0f307d86-4180-4b71-a04a-2f39b19407ba" width="100x100px"> | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/fbb57a0d-8453-4456-bb76-f66d9cb8e77f" width="130x130px"> |
-|:-----:|:------:|:------:|:--------:|
-| <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/b9a54d8b-169e-4b33-a249-f7b9e5eaa67b" width="100x100px"> | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/5da42dba-02da-4e14-a498-56899d8ac130" width="100x100px"> | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/a173d066-170a-44ac-bbac-a5c53e6231ab" width="100x100px"> | <img src="https://d1zviajkun9gxg.cloudfront.net/user/prod/2020/01/05/fastpages-892f9602-fc52-42e6-9e81-2ea8f1477f89.png" width="130x160px"> |
-| | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/cf17f305-f500-48f3-8050-033de6bdef5b" width="100x100px"> | <img src="https://github.com/JsasMachaca/JsasMachaca/assets/118281223/d74a536d-5b51-4bc8-80ab-058451a46e89" width="100x100px"> | |
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsusmachaca&show_icons=true&theme=radical)
 
-<!--
-**JsasMachaca/JsasMachaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsusmachaca)](https://github.com/jsusmachaca/github-readme-stats)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsusmachaca&size_weight=0.5&count_weight=0.5)
