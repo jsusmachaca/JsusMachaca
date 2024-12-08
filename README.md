@@ -9,7 +9,7 @@
 ```go
 import "fmt"
 
-func aboutMe() {
+func main() {
         description := `
         Hi 👋, I am a Software Design and Development student at Tecsup
         in Arequipa. I am currently working for a company developing an
@@ -24,19 +24,7 @@ func aboutMe() {
         `
         fmt.Println(description)
 }
-
-func main() {
-        name := "Jesus Machaca"
-        age := 21
-        location := "Arequipa, Perú"
-
-        aboutMe()
-}
-
 ```
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsusmachaca)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsusmachaca)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -102,8 +90,10 @@ func main() {
 </br>
 </br>
 
+<!--
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsusmachaca&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+-->
